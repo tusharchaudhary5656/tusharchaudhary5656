@@ -88,9 +88,9 @@ I deploy for impact.
 ## 🌍 Connect
 
 <p align="center">
-  <a href="https://yourwebsite.com">🌐 Website</a> •
-  <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a> •
-  <a href="mailto:yourmail@gmail.com">📧 Email</a>
+  <a href="https://vasuyashii">🌐 Website</a> •
+  <a href="https://linkedin.com/in/vasuayshii-b0532a305">💼 LinkedIn</a> •
+  <a href="mailto:tusharchaudhary5656@gmail.com">📧 Email</a>
 </p>
 
 ---
