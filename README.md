@@ -63,3 +63,38 @@ Building production-ready SaaS products that:
 ---
 
 ## 🧬 Engineering Philosophy
+I build once.  
+I design for scale.  
+I deploy for impact.
+
+---
+
+## 📊 GitHub Intelligence
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tusharchaudhary5656&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharchaudhary5656&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharchaudhary5656&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌍 Connect
+
+<p align="center">
+  <a href="https://yourwebsite.com">🌐 Website</a> •
+  <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a> •
+  <a href="mailto:yourmail@gmail.com">📧 Email</a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ VASUYASHII — Building Scalable Digital Systems ⚡
+</p>
