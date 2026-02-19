@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!-- Hacker Style Banner -->
 <h1 align="center">⚡ Tushar Chaudhary ⚡</h1>
